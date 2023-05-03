@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LB5_18_one/1.0.0": {
+        "runtime": {
+          "LB5_18_one.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB5_18_one/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
